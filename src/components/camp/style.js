@@ -68,7 +68,7 @@ export const Quote = ({ body, img, name, detail, credential, ...props }) => (
     <Icon glyph="quote" color={theme.colors.primary} size={32} />
     <Lead color="muted" children={body} />
     <Flex align="center" mt={3}>
-      <Avatar src={`/hackers/${img}`} size={48} mr={3} />
+      <Avatar src={`${img}`} size={48} mr={3} />
       <Box color="muted" align="left" fontSize={3}>
         <Text.span color="smoke" bold>
           {name}
