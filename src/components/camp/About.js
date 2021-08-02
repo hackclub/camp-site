@@ -215,7 +215,7 @@ export default () => [
       <Photo src="/camp/sf.jpg" alt="Presenting at the first Hack Camp" dark />
       <Quote
         body="Hack Camp is a chance for young students to discover their ability to build using code. Your youth is the most defining time of your life, and Hack Camp helped us reach out to students around the community to expose them to the most beautiful, empowering parts of technology."
-        img="megan.png"
+        img="https://github.com/megancui.png"
         name="Megan Cui"
         detail="Mason, OH"
         credential="Camp leader, Harvard ’23"
@@ -228,7 +228,7 @@ export default () => [
       <Photo src="/camp/india.jpg" alt="Hack Camp in Kerala, India" dark />
       <Quote
         body="I was worried campers might lose interest since coding was new to them. But when we got them started, they blew us away. They started learning by themselves during the camp and built things we never taught them."
-        img="athul.jpg"
+        img="https://github.com/athul-blesson.png"
         name="Athul Blesson"
         detail="Kerala, India"
         credential="Camp leader, ASIET ’21"
