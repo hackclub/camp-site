@@ -116,7 +116,7 @@ export default () => (
             learners that introduced me to an entirely novel approach to
             hacking, changing not just the way I regard technology, but the way
             I approach the world at large."
-          img="connie.jpg"
+          img="https://cloud-fas5zgoqo-hack-club-bot.vercel.app/0connie.jpg"
           name="Connie Liu"
           detail="San Francisco"
           credential="Hack Camp attendee, 2016"
